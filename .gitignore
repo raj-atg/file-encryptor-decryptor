@@ -1,0 +1,27 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Secret keys
+secret.key
+
+# Decrypted/Encrypted files (optional, based on privacy)
+*.decrypted
+*.encrypted
+
+# System files
+.DS_Store
+Thumbs.db
